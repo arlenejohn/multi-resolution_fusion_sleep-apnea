@@ -15,4 +15,6 @@ Please cite the article if using this resource: A. John, K. K. Nundy, B. Cardiff
 
 6. sleep_apnea_fusion_files_ecg_abdo.ipynb shows the ECG+Abdo model development. Model parameters stored in best_weights_fusion_abdo_ecg_14_2.hdf5.
 
+7. sleep_apnea_fusion_files_all3.ipynb shows the ECG+SpO2+Abdo model development. Model parameters stored in best_weights_fusion_abdo_17_8.hdf5.
+
 The raw data and processed data is hosted on https://drive.google.com/drive/folders/12bksbKpkro5s4RljIe8nF1gbC0Dl-d3Z?usp=sharing. Please request access.
