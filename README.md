@@ -17,4 +17,4 @@ Please cite the article if using this resource: A. John, K. K. Nundy, B. Cardiff
 
 7. sleep_apnea_fusion_files_all3.ipynb shows the ECG+SpO2+Abdo model development. Model parameters stored in best_weights_fusion_abdo_17_8.hdf5.
 
-The google drive at which the raw and processed data was hosted has expired. New location will be updated here soon.
+The raw data converted .mat file and the processed data are stored in a private onederive. Please request access by contacting https://people.utwente.nl/a.john
